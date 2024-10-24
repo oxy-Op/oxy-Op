@@ -1,6 +1,6 @@
 # Oxy - Full-Stack Developer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxy-Op&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxy-Op&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxy-Op&layout=compact&theme=radical)
 
 ### Tech Stack
@@ -17,3 +17,15 @@
   <img src="https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
+
+### Tech Stack (for searchability)
+- **Python**
+- **Next.js**
+- **React**
+- **Flask**
+- **MongoDB**
+- **MySQL**
+- **Vercel**
+- **Web3**
+- **Solana**
+- **Ethereum**

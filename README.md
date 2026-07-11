@@ -14,8 +14,11 @@ Solana programs (Anchor + native Pinocchio) · indexers & gRPC streaming · tran
 
 ### Stack
 **Core:** Rust · TypeScript / Node.js · Python
+
 **Solana:** Anchor · Pinocchio · web3.js · Solana Kit · Metaplex Core · SPL · Switchboard
+
 **Backend:** PostgreSQL · Redis · ClickHouse · gRPC · GraphQL · REST
+
 **Frontend:** React · Next.js · TanStack Query · Zustand
 
 📫 Telegram: [@OxKaoru](https://t.me/Oxkaoru) · 🌐 [kaoru7.com](https://kaoru7.com)

@@ -7,7 +7,8 @@ I build the systems under on-chain apps. TypeScript-first, strong Rust for the p
 **Currently:** building data infrastructure for Solana · learning perp DEX internals · open to backend/protocol contract work.
 
 ### Recent work
-- **[Anigacha](link)** — native Pinocchio on-chain NFT lottery: Switchboard VRF, Metaplex Core custody, zero-copy chunked accounts, grind-resistant refunds. Deployed on devnet.
+- **[Anigacha](https://anigacha.projects.kaoru7.com/)** — native Pinocchio on-chain NFT lottery: Switchboard VRF, Metaplex Core custody, zero-copy chunked accounts, grind-resistant refunds. Deployed on devnet.
+- **[Pinocchio to IDL](https://github.com/oxy-Op/pinocchio-to-idl)** — Reproducible IDL generation for native Pinocchio Solana programs. Annotate Rust source once, emit Codama JSON plus Anchor/Solscan-compatible IDLs, and fail CI when generated interfaces drift.
 
 ### Focus
 Solana programs (Anchor + native Pinocchio) · indexers & gRPC streaming · transaction infrastructure · DeFi (lending, staking, perps) · program security auditing

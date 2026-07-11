@@ -19,4 +19,4 @@ Solana programs (Anchor + native Pinocchio) · indexers & gRPC streaming · tran
 **Backend:** PostgreSQL · Redis · ClickHouse · gRPC · GraphQL · REST<br>
 **Frontend:** React · Next.js · TanStack Query · Zustand
 
-📫 Telegram: [@OxKaoru](https://t.me/Oxkaoru) · 🌐 [kaoru7.com](https://kaoru7.com)
+📫 Telegram: [@OxKaoru](https://t.me/Oxkaoru) · 🌐 [kaoru7.com](https://kaoru7.com) (WIP)

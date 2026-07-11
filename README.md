@@ -13,12 +13,9 @@ I build the systems under on-chain apps. TypeScript-first, strong Rust for the p
 Solana programs (Anchor + native Pinocchio) · indexers & gRPC streaming · transaction infrastructure · DeFi (lending, staking, perps) · program security auditing
 
 ### Stack
-**Core:** Rust · TypeScript / Node.js · Python
-
-**Solana:** Anchor · Pinocchio · web3.js · Solana Kit · Metaplex Core · SPL · Switchboard
-
-**Backend:** PostgreSQL · Redis · ClickHouse · gRPC · GraphQL · REST
-
+**Core:** Rust · TypeScript / Node.js · Python<br>
+**Solana:** Anchor · Pinocchio · web3.js · Solana Kit · Metaplex Core · SPL · Switchboard<br>
+**Backend:** PostgreSQL · Redis · ClickHouse · gRPC · GraphQL · REST<br>
 **Frontend:** React · Next.js · TanStack Query · Zustand
 
 📫 Telegram: [@OxKaoru](https://t.me/Oxkaoru) · 🌐 [kaoru7.com](https://kaoru7.com)
